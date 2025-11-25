@@ -40,4 +40,5 @@ st.markdown(
     ---
     *Skema Penilaian: A (≥85), B (≥70), C (≥55), D (≥40), E (<40)*
     """
+
 )
